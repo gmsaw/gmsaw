@@ -32,7 +32,6 @@
 
 ## 🔥 **Proyek Unggulan**
 
-[//]: # (Tambahkan proyek-proyek terbaik Anda)
 | Project | Description | Tech  |
 |---------|-------------|------------|
 | **[Bindesjimbaran](link)** | Sistem managemen data kependudukan desa adat jimbaran | [![My Skills](https://skillicons.dev/icons?i=php,laravel)](https://skillicons.dev) |
